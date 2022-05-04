@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Plexor-dev
 - 👀 I’m interested in learn and make websites and apps
-- 🌱 I’m currently learning in Platzi and internet
+- 🌱 I’m currently learning Front-end development in Platzi and web pages
 - 📫 How to reach me llanofederico@gmail.com
 
 <!---
